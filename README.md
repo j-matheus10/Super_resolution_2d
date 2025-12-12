@@ -1,4 +1,3 @@
-
 # Proyecto Super-Resolución de Imágenes 2D
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -69,7 +68,7 @@ Super_resolution_2d-main/
 
 -----
 
-## 4\. Instalación (Paso a Paso)
+## 4\. Instalación
 
 Abrir una terminal (consola) dentro de la carpeta `Super_resolution_2d-main` y ejecutar los comandos en el siguiente orden.
 
@@ -119,7 +118,7 @@ Una vez completada la instalación:
 
 -----
 
-## 6\. Parámetros para la Demo (Configuración Segura)
+## 6\. Parámetros para la Demo
 
 Para garantizar una demostración fluida y evitar inestabilidad numérica (error de coste infinito) durante la presentación, se recomienda utilizar la siguiente configuración probada:
 
