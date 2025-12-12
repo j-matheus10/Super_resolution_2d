@@ -21,10 +21,10 @@ Donde:
 Antes de comenzar, asegúrense de tener instalado:
 * Python (Versión 3.8 o superior).
 * Un editor de código (VS Code recomendado).
-* La carpeta del proyecto `proyecto_sr` con todos los archivos actualizados.
+* La carpeta del proyecto `Super_resolution_2d-main` con todos los archivos actualizados.
 
 ## 3. Verificación de Estructura
-La carpeta raíz `proyecto_sr` debe contener exactamente la siguiente estructura:
+La carpeta raíz `Super_resolution_2d-main` debe contener exactamente la siguiente estructura:
 
 * `app.py` (Controlador principal)
 * `utils.py` (Utilidades de imagen)
@@ -44,7 +44,7 @@ La carpeta raíz `proyecto_sr` debe contener exactamente la siguiente estructura
 ---
 
 ## 4. Instalación (Paso a Paso)
-Abrir una terminal (consola) dentro de la carpeta `proyecto_sr` y ejecutar los comandos en orden.
+Abrir una terminal (consola) dentro de la carpeta `Super_resolution_2d-main` y ejecutar los comandos en orden.
 
 ### 4.1. Paso A: Entorno Virtual (Recomendado)
 Para aislar las librerías del proyecto:
