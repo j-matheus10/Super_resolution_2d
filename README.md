@@ -73,23 +73,21 @@ Super_resolution_2d-main/
 
 Abrir una terminal (consola) dentro de la carpeta `Super_resolution_2d-main` y ejecutar los comandos en el siguiente orden.
 
-### 4.1. Paso A: Entorno Virtual (Recomendado)
+### 4.1. Paso A: Configuración del Entorno Virtual (Guía Detallada)
 
-Para aislar las librerías del proyecto y evitar conflictos:
+Es fundamental crear un espacio aislado para que las librerías del proyecto no entren en conflicto con tu computador. Sigue estos pasos:
 
-**En Windows:**
+* **1. Crear el entorno:** En la consola, dentro de la carpeta, ejecuta lo siguiente en orden.
+    * **En Windows:** Escribir el comando `python -m venv venv` y presionar Enter. Esperar unos segundos hasta que la terminal vuelva a estar lista.
+    * **En Mac/Linux:** Escribir el comando `python3 -m venv venv` y presionar Enter.
+    * *Nota:* Esto creará una carpeta nueva llamada `venv` dentro de la carpeta del proyecto.
 
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
+* **2. Activar el entorno:**
+    * **En Windows:** Escribir el comando `venv\Scripts\activate` y presionar Enter.
+    * **En Mac/Linux:** Escribir el comando `source venv/bin/activate` y presionar Enter.
 
-**En Mac/Linux:**
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
+* **3. Verificación:**
+    * Sabrás que el entorno está activo porque aparecerá un indicador `(venv)` entre paréntesis al principio de la línea de comandos en tu terminal.
 
 ### 4.2. Paso B: Instalación de dependencias
 
