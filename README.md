@@ -158,5 +158,3 @@ Para garantizar una demostración fluida y evitar inestabilidad numérica (error
       * Hay otra instancia de la terminal ejecutando Flask. Cerrar todas las terminales y reiniciar.
 
 <!-- end list -->
-
-```
