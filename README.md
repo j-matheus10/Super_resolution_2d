@@ -72,7 +72,7 @@ Super_resolution_2d-main/
 
 Abrir una terminal (consola) dentro de la carpeta `Super_resolution_2d-main` y ejecutar los comandos en el siguiente orden.
 
-### 4.1. Paso A: Configuración del Entorno Virtual (Guía Detallada)
+### 4.1. Paso A: Configuración del Entorno Virtual
 
 Es fundamental crear un espacio aislado para que las librerías del proyecto no entren en conflicto con tu computador. Sigue estos pasos:
 
